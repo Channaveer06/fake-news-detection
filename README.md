@@ -9,7 +9,7 @@ Natural Language Processing and Machine Learning.
 - Classification using Logistic Regression
 
 ## Model Details
-- Vectorizer: TF-IDF (5000 features)
+- Vectorizer: TF-IDF 
 - Classifier: Logistic Regression
 
 ## How to Run
